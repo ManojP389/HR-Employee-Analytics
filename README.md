@@ -195,8 +195,7 @@ HR-Employee-Analytics/
 └── .gitignore
 ```
 
-## Dashboards
-## 📊 Power BI Dashboard Preview
+## Power BI Dashboard Preview
 
 ### Dashboard 1 – Executive Summary
 
