@@ -200,19 +200,19 @@ HR-Employee-Analytics/
 
 ### Dashboard 1 – Executive Summary
 
-![Dashboard 1](dashboard/dashboard1.png)
+![Dashboard 1](dashboard/hrdashboard1.png)
 
 ---
 
 ### Dashboard 2 – Attrition Analysis
 
-![Dashboard 2](dashboard/dashboard2.png)
+![Dashboard 2](dashboard/hrdashboard2.png)
 
 ---
 
 ### Dashboard 3 – Employee Insights
 
-![Dashboard 3](dashboard/dashboard3.png)
+![Dashboard 3](dashboard/hrdashboard3.png)
 
 ## Statistical Analysis
 To validate the insights obtained from exploratory data analysis, statistical techniques were applied to determine whether observed patterns were statistically significant rather than occurring by chance.
